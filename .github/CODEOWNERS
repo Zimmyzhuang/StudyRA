@@ -1,0 +1,8 @@
+# Code Owners
+* @Zimmyzhuang
+
+# Frontend
+/src/ @Zimmyzhuang
+
+# Backend (Tauri / Rust)
+/src-tauri/ @Zimmyzhuang
